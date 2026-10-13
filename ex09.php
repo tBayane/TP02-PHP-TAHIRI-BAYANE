@@ -5,8 +5,8 @@
     <title>Exercice 9 - Tableaux associatifs</title>
     <style>
         table { border-collapse: collapse; width: 50%; margin-bottom: 20px; }
-        th, td { border: 1px solid #cccccc; padding: 8px; text-align: left; }
-        th { background-color: #f2f2f2; }
+        th, td { border: 1px solid #2c3e50; padding: 12px 15px; text-align: left; }
+        th { background-color: #f1f4f8; font-size : 14px; }
     </style>
 </head>
 <body>
